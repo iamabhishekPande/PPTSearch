@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/71b26f75-c6fb-4373-baa1-a2405dbe4ab0/resourceGroups/pptSearchnew_group/providers/Microsoft.Web/sites/pptSearchnew",
+    "appService.deploySubpath": "."
+}
